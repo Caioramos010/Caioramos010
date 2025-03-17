@@ -1,24 +1,24 @@
 ## Hi there 👋
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+📔 - Studying Systems analysis and development 
+📝 - Full Stack Developer.
+
+## Technologies
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<ul>  
+  <li><i class="devicon-java-plain"></i></li>
+  <li><i class="devicon-spring-original"></i></li>
+  <li><i class="devicon-react-original"></i></li>
+  <li><i class="devicon-javascript-plain"></i></li>
+  <li><i class="devicon-nodejs-plain"></i></li>
+</ul>
 
+
+_learning_
 <i class="devicon-typescript-plain"></i>
 
-<!--
-**Caioramos010/Caioramos010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
