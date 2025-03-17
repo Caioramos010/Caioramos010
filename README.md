@@ -5,18 +5,19 @@
 
 ## Technologies
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<ul>  
-  <li><i class="devicon-java-plain"></i></li>
-  <li><i class="devicon-spring-original"></i></li>
-  <li><i class="devicon-react-original"></i></li>
-  <li><i class="devicon-javascript-plain"></i></li>
-  <li><i class="devicon-nodejs-plain"></i></li>
-</ul>
+_Domain_
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
 _learning_
-<i class="devicon-typescript-plain"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+
 
 
 ## Contacts
