@@ -9,13 +9,6 @@
 
 [![Full Stack Developer](https://img.shields.io/badge/ﾠ-Full_Stack_Developer-5C2D91?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIj48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI0MSIgc3Ryb2tlPSIjNTMyZTkxIiBzdHJva2Utd2lkdGg9IjIiLz48Y2lyY2xlIGN4PSIzMiIgY3k9IjI1IiByPSIxNiIgZmlsbD0iIzUzMmU5MSIvPjxjaXJjbGUgY3g9IjMyIiBjeT0iNDAiIHI9IjIwIiBmaWxsPSIjNTMyZTkxIi8+PC9zdmc+)](#)
 
-
-
-
-
-📔 - Studying Systems analysis and development - SENAC
-<br> 📝 - Full Stack Developer.
-
 # Technologies
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caioramos010&bg_color=000&border_color=5C2D91&title_color=5C2D91&text_color=FFF)
