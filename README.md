@@ -19,7 +19,6 @@ _FrontEnd_
 <br/>
 _Others_
 <br/>![MySQL](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)
-<br/>
 ![AWS](https://img.shields.io/badge/AWS-5C2D91?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Learning   
