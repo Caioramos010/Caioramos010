@@ -5,7 +5,7 @@
 
 # Technologies
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caioramos010&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caioramos010&bg_color=000&border_color=5C2D91&title_color=5C2D91&text_color=FFF)
 
 ### Domain
 _BackEnd_
@@ -27,7 +27,7 @@ _Others_
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-5C2D91?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## GitHubs Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caioramos010&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caioramos010&theme=transparent&bg_color=000&border_color=5C2D91&show_icons=true&icon_color=5C2D91&title_color=5C2D91&text_color=FFF)
 
 # Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C4796?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-de-souza-ramos/)
