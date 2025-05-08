@@ -23,7 +23,7 @@ _Others_
 ![AWS](https://img.shields.io/badge/AWS-5C2D91?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Learning
-<br/>![NodeJS](https://img.shields.io/badge/node.js-5C2D91?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-5C2D91?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-5C2D91?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
