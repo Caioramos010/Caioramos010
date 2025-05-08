@@ -9,8 +9,8 @@
 
 _Domain_
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/python-%23ED8B00?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/React-%23ED8B00?style=for-the-badge&logo=react&logoColor=white)
 
 _learning_   
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
