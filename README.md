@@ -11,7 +11,7 @@
 ### Domain
 _BackEnd_
 <br/>![Spring](https://img.shields.io/badge/spring-5C2D91?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-python-5C2D91?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 _FrontEnd_
 <br/>![React](https://img.shields.io/badge/React-5C2D91?style=for-the-badge&logo=react&logoColor=white)
