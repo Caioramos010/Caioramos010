@@ -1,5 +1,16 @@
 # Hi there 👋
 
+### About Me and My Professional Journey
+  My journey in programming began with a course on creating Minecraft plugins, where I discovered how technology can be transformative. This sparked my passion for solving real-world problems through creative solutions.
+  During college, I deepened my knowledge in Java, React, and MySQL, building a strong foundation for tackling real challenges. Currently, I am developing a Full Stack project independently, using Python for the backend to monitor an internal system. This experience has honed my technical skills, autonomy, and problem-solving abilities.
+  I am eager to contribute my expertise to the company, combining my skills with a proactive and innovative mindset. I am constantly learning and plan to specialize in Artificial Intelligence to explore even more opportunities for impactful solutions.
+
+[![Notebook](https://img.shields.io/badge/Studying-Notebook-5C2D91?style=for-the-badge&logo=book&logoColor=white)](#)
+[![Developer](https://img.shields.io/badge/Full%20Stack-Developer-5C2D91?style=for-the-badge&logo=code&logoColor=white)](#)
+
+
+
+
 📔 - Studying Systems analysis and development - SENAC
 <br> 📝 - Full Stack Developer.
 
@@ -11,7 +22,7 @@
 ### Domain
 _BackEnd_
 <br/>![Spring](https://img.shields.io/badge/spring-5C2D91?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-python-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-5C2D91?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 _FrontEnd_
 <br/>![React](https://img.shields.io/badge/React-5C2D91?style=for-the-badge&logo=react&logoColor=white)
