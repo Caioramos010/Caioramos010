@@ -11,8 +11,8 @@
 
 # Technologies
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caioramos010&bg_color=000&border_color=5C2D91&title_color=5C2D91&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caioramos010&theme=transparent&bg_color=000&border_color=5C2D91&show_icons=true&icon_color=5C2D91&title_color=5C2D91&text_color=FFF)
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caioramos010&bg_color=000&border_color=5C2D91&title_color=5C2D91&text_color=FFF" weight=200 height=200> <img src="https://github-readme-stats.vercel.app/api?username=Caioramos010&theme=transparent&bg_color=000&border_color=5C2D91&show_icons=true&icon_color=5C2D91&title_color=5C2D91&text_color=FFF" weight=200 height=200>
 
 ### Domain
 _BackEnd_
