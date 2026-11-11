@@ -9,7 +9,8 @@ Com sólida vivência no desenvolvimento de ecossistemas próprios — como o **
 
 # Technologies
 
-<img src="https://github-readme-stats.vercel.app/api?username=Caioramos010&theme=transparent&show_icons=true&title_color=5C2D91&text_color=FFF&icon_color=5C2D91&border_color=5C2D91" width="450" />
+[![Github Stats](https://img.shields.io/badge/GitHub-Caioramos010-5C2D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caioramos010)
+[![Focus](https://img.shields.io/badge/Focus-AI_Eng_&_FullStack-5C2D91?style=for-the-badge&logo=codeforces&logoColor=white)](#)
 
 ### Domain & Stack
 
