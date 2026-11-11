@@ -41,7 +41,7 @@ _Databases, DevOps & Automation_
 ### Featured Projects & Ecosystems
 [![Grifa AI](https://img.shields.io/badge/Grifa_AI-Monorepo_&_AI_Engine-5C2D91?style=for-the-badge&logo=openai&logoColor=white)](https://grifai.com.br)
 [![IlhaConecta](https://img.shields.io/badge/IlhaConecta-SaaS_Automation_Suite-5C2D91?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-[![Programático](https://img.shields.io/badge/Programático-Gamified_Logic_Platform-5C2D91?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+[![Programático](https://img.shields.io/badge/Programático-Gamified_Logic_Platform-5C2D91?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/Caioramos010/programatico-api)
 
 # Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C4796?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-de-souza-ramos/)
