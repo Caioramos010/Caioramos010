@@ -1,44 +1,43 @@
 # Hi there 👋
 
 ### About Me and My Professional Journey
-  My journey in programming began with a course on creating Minecraft plugins, where I discovered how technology can be transformative. This sparked my passion for solving real-world problems through creative solutions.
-  During college, I deepened my knowledge in Java, React, and MySQL, building a strong foundation for tackling real challenges. Currently, I am developing a Full Stack project independently, using Python for the backend to monitor an internal system. This experience has honed my technical skills, autonomy, and problem-solving abilities.
-  I am eager to contribute my expertise to the company, combining my skills with a proactive and innovative mindset. I am constantly learning and plan to specialize in Artificial Intelligence to explore even more opportunities for impactful solutions.
+Engenheiro de Software Full-Stack, Analista de Sistemas e criador de produtos. Minha trajetória é marcada pela entrega de soluções robustas do mundo real, unindo engenharia de automação, arquitetura de microsserviços, infraestrutura de telecomunicações e inteligência artificial. 
 
-[![Notebook](https://img.shields.io/badge/-Studying_Systems_analysis_and_development_★_SENAC-5C2D91?style=for-the-badge&labelColor=ffffff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjI0IiBmaWxsPSIjNTMyZTkxIi8+PHJlY3QgeD0iMiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjIyIiBmaWxsPSIjZmZmIi8+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjIwIiBmaWxsPSIjNTMyZTkxIi8+PHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjZmZmIi8+PHJlY3QgeD0iMiIgeT0iNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiBmaWxsPSIjNTMyZTkxIi8+PC9zdmc+)](#)
+Com sólida vivência no desenvolvimento de ecossistemas próprios como o **Grifa AI** e o **IlhaConecta**, além de experiência prática sólida em empresas do setor tecnológico, projeto sistemas de alta performance de ponta a ponta. Atuo desde a arquitetura de backend em TypeScript, Node.js, Python, Java e Go até ambientes conteinerizados com Docker, bancos de dados relacionais avançados e integração de modelos de IA. Focado em código limpo, testado e escalável.
 
-[![Full Stack Developer](https://img.shields.io/badge/-Full_Stack_Developer-5C2D91?style=for-the-badge&labelColor=ffffff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIj48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI0MSIgc3Ryb2tlPSIjNTMyZTkxIiBzdHJva2Utd2lkdGg9IjIiLz48Y2lyY2xlIGN4PSIzMiIgY3k9IjI1IiByPSIxNiIgZmlsbD0iIzUzMmU5MSIvPjxjaXJjbGUgY3g9IjMyIiBjeT0iNDAiIHI9IjIwIiBmaWxsPSIjNTMyZTkxIi8+PC9zdmc+)](#)
+[![Full Stack Developer & Systems Analyst](https://img.shields.io/badge/-Full_Stack_Developer_&_Systems_Analyst-5C2D91?style=for-the-badge&labelColor=ffffff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIj48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI0MSIgc3Ryb2tlPSIjNTMyZTkxIiBzdHJva2Utd2lkdGg9IjIiLz48Y2lyY2xlIGN4PSIzMiIgY3k9IjI1IiByPSIxNiIgZmlsbD0iIzUzMmU5MSIvPjxjaXJjbGUgY3g9IjMyIiBjeT0iNDAiIHI9IjIwIiBmaWxsPSIjNTMyZTkxIi8+PC9zdmc+)](#)
 
 # Technologies
 
-<img src="https://github-readme-stats.vercel.app/api?username=Caioramos010&theme=transparent&bg_color=000&border_color=5C2D91&show_icons=true&icon_color=5C2D91&title_color=5C2D91&text_color=FFF" weight=400 height=200>
+<img src="https://github-readme-stats.vercel.app/api?username=Caioramos010&theme=transparent&bg_color=000&border_color=5C2D91&show_icons=true&icon_color=5C2D91&title_color=5C2D91&text_color=FFF" width="400" height="200">
 
-### Domain
+### Domain & Stack
 _BackEnd_
-<br/>![Spring](https://img.shields.io/badge/spring-5C2D91?style=for-the-badge&logo=spring&logoColor=white)
+<br/>
+![TypeScript](https://img.shields.io/badge/typescript-5C2D91?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-5C2D91?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-5C2D91?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-5C2D91?style=for-the-badge&logo=go&logoColor=white)
 <br/>
 _FrontEnd_
-<br/>![React](https://img.shields.io/badge/React-5C2D91?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-5C2D91?style=for-the-badge&logo=bootstrap&labelColor=white)
+<br/>
+![React](https://img.shields.io/badge/React-5C2D91?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-5C2D91?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br/>
-_Others_
-<br/>![MySQL](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-5C2D91?style=for-the-badge&logo=amazon-aws&logoColor=white)
+_Infrastructure & DevOps_
+<br/>
+![PostgreSQL](https://img.shields.io/badge/postgresql-5C2D91?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-5C2D91?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### Learning
-![NodeJS](https://img.shields.io/badge/node.js-5C2D91?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-5C2D91?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-5C2D91?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### Featured Projects & Ecosystems
+[![Grifa AI](https://img.shields.io/badge/Grifa_AI-Monorepo_&_AI_Engine-5C2D91?style=for-the-badge&logo=openai&logoColor=white)](https://grifa.ai)
+[![IlhaConecta](https://img.shields.io/badge/IlhaConecta-SaaS_Automation_Suite-5C2D91?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![Programático](https://img.shields.io/badge/Programático-Gamified_Logic_Platform-5C2D91?style=for-the-badge&logo=codeforces&logoColor=white)](#)
 
 # Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C4796?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-de-souza-ramos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-6C4796?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_csramos/)
 [![X](https://img.shields.io/badge/X-6C4796?style=for-the-badge&logo=x)](https://x.com/_csramos)
-
-
-
-
